@@ -67,7 +67,7 @@ if you're at enough level, you can contribute to this project to help more peopl
 
 ### Wishlist
 
-| name | type |
-| --- | --- |
-| こわれかけのオルゴール | movie |
-| その花びらにくちづけを あなたと恋人つなぎ | r18 ova |
+| name | type | num of ep(s) |
+| --- | --- | --- |
+| こわれかけのオルゴール | movie | 1 |
+| その花びらにくちづけを あなたと恋人つなぎ | r18 ova | 1 |
