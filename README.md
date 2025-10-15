@@ -15,7 +15,13 @@ sometimes its only snippets bcs i mostly do only when i figured it's useful for 
 
 this project exists only to assit immersions, it's not the same thing as subtitles. if you're just started, it might be more of a wise choice to learn from an anime that HAS official Japanese subtitles available instead. Anyway, at here, i assume you already have certain ability to read the trascriptions and then do logical analyzations yourself, because i will not update previous texts when something have been uncovered in later episodes. ideally, u only read the transcriptions when u need and once you got what u needed u you will go back and be on your own again
 
+> [!WARNING]
+> im not responsible for if you turn animes into your reading practice and later suffer from consequences of *premature reading* (like accents and speaking), you're warned; however, you might not care this if all of your goal is to understand anime, instead of getting as close as a native. trade it off yourself
+
 ## How to use
+
+> [!WARNING]
+> use at your own risks; transcription might contain errors
 
 open those `.txt` files using any text viewer; for example, while u watch the anime you can pause and look up anything u wanna know
 
