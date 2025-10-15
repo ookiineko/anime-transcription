@@ -1,0 +1,55 @@
+Anime Transcription
+===================
+
+This repository contains dialogue lines for some Japanese animes I transcribe for fun (when subtitles for it is not available in [kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F))
+
+timed subtitles can be created later if me or someone else willing to put efforts into it
+
+## What
+
+consider it as a hint for if you plan to immerse in these animes
+
+## Limitations
+
+sometimes its only snippets bcs i mostly do only when i figured it's useful for my learning. expect it to be incomplete. (it takes a lot of time and work to do unofficial stuffs like this and check)
+
+this project exists only to assit immersions, it's not the same thing as subtitles. if you're just started, it might be more of a wise choice to learn from an anime that HAS official Japanese subtitles available instead. Anyway, at here, i assume you already have certain ability to read the trascriptions and then do logical analyzations yourself, because i will not update previous texts when something have been uncovered in later episodes. ideally, u only read the transcriptions when u need and once you got what u needed u you will go back and be on your own again
+
+## How to use
+
+open those `.txt` files using any text viewer; for example, while u watch the anime you can pause and look up anything u wanna know
+
+## Format agreements
+
+some measures for keeping this project even maintainable:
+
+- no punc
+- no onomatopoeia
+- wrap long sentences when sensible
+- group related short sentences to improve balance
+- use common repr for word; make it look clear
+- annotate person names, ambiguous pronunciations etc.
+- be consist w/ whats said and/or showed on screen
+
+focus on general readability but no more than that; it's not necessary to strictly follow official lyrics
+
+instead of emulating what the text would be if it an official release, better to emulate what the text would be if written by a person who watch this anime without any other context
+
+not to paste foreign texts copied from somewhere else directly
+
+keyboard used: google Mozc
+
+## Challenges
+
+sometimes these tricky things are encountered and their possible solutions (if any):
+
+- **very specific term, or like person names**: try to look up wiki, or original work (like manga, novel, game) might help
+- **too hard to hear**: sometimes AI like whisper do better. but verify them carefully before committing to Git
+- **dialects, slangs or spoken lang that is hard to transcribe**: can't really do much. skip those parts, or pick a better anime to work on that don't have a lot of them
+
+while try bests to handle them, these things will make it even harder to maintain this project, and it's not your fault
+
+if you're at enough level, you can contribute to this project to help more people with their learning journey
+
+> [!IMPORTANT]
+> try to pick a relatively older anime that still have no JA subs ripped. working on a just-released anime might turn out their subs get uploaded a bit later so your work become somewhat useless. (unless you know what you're doing and ok with that)
