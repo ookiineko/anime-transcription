@@ -49,7 +49,7 @@ keyboard used: google Mozc
 
 sometimes these tricky things are encountered and their possible solutions (if any):
 
-- **very specific term, or like person names**: try to look up wiki, or original work (like manga, novel, game) might help
+- **very specific term, or like person names**: try to look up wiki, or original work (like manga, novel) might help
 - **too hard to hear**: sometimes AI like whisper do better. but verify them carefully before committing to Git
 - **dialects, slangs or spoken lang that is hard to transcribe**: can't really do much. skip those parts, or pick a better anime to work on that don't have a lot of them
 
