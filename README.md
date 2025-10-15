@@ -59,3 +59,8 @@ if you're at enough level, you can contribute to this project to help more peopl
 
 > [!IMPORTANT]
 > try to pick a relatively older anime that still have no JA subs ripped. working on a just-released anime might turn out their subs get uploaded a bit later so your work become somewhat useless. (unless you know what you're doing and ok with that)
+
+
+## TODO
+
+- [ ] add a *free* license
