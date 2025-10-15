@@ -64,3 +64,9 @@ if you're at enough level, you can contribute to this project to help more peopl
 ## TODO
 
 - [ ] add a *free* license
+
+### Wishlist
+
+| name | type |
+| --- | --- |
+| こわれかけのオルゴール | movie |
