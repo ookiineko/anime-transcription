@@ -63,6 +63,7 @@ if you're at enough level, you can contribute to this project to help more peopl
 
 ## TODO
 
+- [ ] a shorter readme
 - [ ] add a *free* license
 
 ### Wishlist
