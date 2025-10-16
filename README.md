@@ -65,7 +65,7 @@ if you're at enough level, you can contribute to this project to help more peopl
 ## TODO
 
 - [ ] a shorter readme
-- [ ] add a *free* license
+- [x] add a *free* license
 
 ### Wishlist
 
@@ -82,3 +82,7 @@ at this moment, i'm not yet sure about how to allow collaborative works to happe
 ## Feedbacks
 
 we need your help with suggestions, ideas, pointers. for now, you can reach out on github via Issues or Discussions
+
+## License
+
+unless further clarified, the transcription works inside this repository are provided you FOR FREE in the Public Domain, and is sorely intended for Japanese learners; not to use them for any other purposes; the original anime content and dialogue remain the property of their respective copyright holders, if you are the copyright holder, you can contact me for removal using email; donations are not accepted
