@@ -50,7 +50,7 @@ keyboard used: google Mozc
 sometimes these tricky things are encountered and their possible solutions (if any):
 
 - **very specific term, or like person names**: try to look up wiki, or original work (like manga, novel) might help
-- **too hard to hear**: sometimes AI like whisper do better. but verify them carefully before committing to Git
+- **too hard to hear**: sometimes AI like [whisper](https://github.com/ggml-org/whisper.cpp) do better. but verify them carefully before committing to Git
 - **dialects, slangs or spoken lang that is hard to transcribe**: can't really do much. replace them with closest equivalents, or skip those parts, or pick a better anime to work on that don't have a lot of them
 
 while try bests to handle them, these things will make it even harder to maintain this project, and it's not your fault
