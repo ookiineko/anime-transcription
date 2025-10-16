@@ -41,7 +41,8 @@ focus on general readability but no more than that; it's not necessary to strict
 
 instead of emulating what the text would be if it an official release, better to emulate what the text would be if written by a person who watch this anime without any other context
 
-not to paste foreign texts copied from somewhere else directly
+> [!NOTE]
+> not to paste foreign texts copied from somewhere else directly
 
 keyboard used: google Mozc
 
@@ -68,7 +69,16 @@ if you're at enough level, you can contribute to this project to help more peopl
 
 ### Wishlist
 
+at this moment, i'm not yet sure about how to allow collaborative works to happen in this project reliability and how to review contributions
+
+> [!NOTE]
+> not to send Issues on github to request an anime bcs it is most likely not how it works
+
 | name | type | num of ep(s) |
 | --- | --- | --- |
 | こわれかけのオルゴール | movie | 1 |
 | その花びらにくちづけを あなたと恋人つなぎ | r18 ova | 1 |
+
+## Feedbacks
+
+we need your help with suggestions, ideas, pointers. for now, you can reach out on github via Issues or Discussions
