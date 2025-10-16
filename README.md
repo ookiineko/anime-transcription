@@ -25,6 +25,8 @@ this project exists only to assit immersions, it's not the same thing as subtitl
 
 open those `.txt` files using any text viewer; for example, while u watch the anime you can pause and look up anything u wanna know
 
+there is also a README.md file in each of the subdirectories which can show some notes and the current transcription progress (if its not finished yet) and sometimes a short description (with no spoilers)
+
 ## Format agreements
 
 some measures for keeping this project even maintainable:
