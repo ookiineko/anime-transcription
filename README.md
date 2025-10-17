@@ -85,6 +85,8 @@ at this moment, i'm not yet sure about how to allow collaborative works to happe
 
 we need your help with suggestions, ideas, pointers. for now, you can reach out on github via Issues or Discussions
 
+if this project looks useful to you and if you would like to, you can leave a star and/or share this project with other people who might find it useful. thank you
+
 ## License
 
 unless further clarified, the transcription works inside this repository are provided you FOR FREE in the Public Domain, and is sorely intended for Japanese learners; not to use them for any other purposes; the original anime content and dialogue remain the property of their respective copyright holders, if you are the copyright holder, you can contact me for removal using email; donations are not accepted
