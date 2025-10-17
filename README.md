@@ -18,6 +18,10 @@ this project exists only to assit immersions, it's not the same thing as subtitl
 > [!WARNING]
 > im not responsible for if you turn animes into your reading practice and later suffer from consequences of *premature reading* (like accents and speaking), you're warned; however, you might not care this if all of your goal is to understand anime, instead of getting as close as a native. trade it off yourself
 
+## Download
+
+you can download this repository as a zip via github: https://github.com/ookiineko/anime-transcription/archive/refs/heads/main.zip
+
 ## How to use
 
 > [!WARNING]
