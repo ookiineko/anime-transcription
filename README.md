@@ -79,7 +79,7 @@ at this moment, i'm not yet sure about how to allow collaborative works to happe
 | name | type | num of ep(s) |
 | --- | --- | --- |
 | こわれかけのオルゴール | movie | 1 |
-| その花びらにくちづけを あなたと恋人つなぎ | r18 ova | 1 |
+| ~~その花びらにくちづけを あなたと恋人つなぎ~~ | r18 ova | 1 |
 
 ## Feedbacks
 
