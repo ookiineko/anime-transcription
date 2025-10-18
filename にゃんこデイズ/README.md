@@ -8,7 +8,7 @@ this anime is adapted from its original manga work, by looking the manga helps a
 
 | ep. | status | ep. | status |
 | --- | --- | --- | --- |
-| 1 | ✅️ | 7 | efforts have been made locally, need to organize before uploading |
+| 1 | ✅️ | 7 | ✅️ |
 | 2 | ✅️ | 8 | efforts have been made locally, need to organize before uploading |
 | 3 | ✅️ | 9 | ❌️ |
 | 4 | ✅️ | 10 | ❌️ |
