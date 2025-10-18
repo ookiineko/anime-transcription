@@ -13,4 +13,4 @@ this anime is adapted from its original manga work, by looking the manga helps a
 | 3 | ✅️ | 9 | ❌️ |
 | 4 | ✅️ | 10 | ❌️ |
 | 5 | ✅️ | 11 | ❌️ |
-| 6 | efforts have been made locally, need to organize before uploading | 12 | ❌️ |
+| 6 | ✅️ | 12 | ❌️ |
