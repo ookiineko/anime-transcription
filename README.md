@@ -92,7 +92,7 @@ we need your help with suggestions, ideas, pointers. for now, you can reach out 
 
 if this project looks useful to you and if you would like to, you can leave a star and/or share this project with other people who might find it useful. thank you
 
-## Joining the community
+### Joining the community
 
 There is a newly created discussion group, if you're interested in this project, this is a group for you: https://t.me/anime_transcription
 
