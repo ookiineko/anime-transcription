@@ -6,6 +6,8 @@ slice-of-life stuff. each episode of this anime is very short. not hard, probabl
 
 this anime is adapted from its original manga work, by looking the manga helps a lot with the transcription (you can find the most or a lot of lines in there which stayed exactly the same inside anime version); unfortunately, the manga version generally does not have furigana except a few spots
 
+unofficial `.ass` subtitles prefixed with `[dr0p-out]` can be found on Jimaku, an earlier draft before this project was refactored
+
 | ep. | status | ep. | status |
 | --- | --- | --- | --- |
 | 1 | ✅️ | 7 | ✅️ |
