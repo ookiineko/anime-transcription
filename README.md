@@ -1,7 +1,7 @@
 Anime Transcription
 ===================
 
-This repository contains dialogue lines for some Japanese animes I transcribe for fun (when subtitles for it is not available in [kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F))
+This repository contains dialogue lines for some Japanese animes I transcribe for fun (when subtitles for it is not available in [kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) or [Jimaku](https://jimaku.cc/))
 
 timed subtitles can be created later if me or someone else willing to put efforts into it
 
