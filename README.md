@@ -8,6 +8,8 @@ Anime Transcription
 ![commit activity badge](https://img.shields.io/github/commit-activity/w/ookiineko/anime-transcription?style=for-the-badge)
 ![license badge](https://img.shields.io/badge/license-public%20domain-blue?style=for-the-badge)
 
+(Part of this readme is also available in other languages: [中文 (Chinese)](README-zh.md))
+
 This repository contains dialogue lines for some Japanese animes I transcribe for fun (when subtitles for it is not available in [kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) or [Jimaku](https://jimaku.cc/))
 
 timed subtitles can be created later if me or someone else willing to put efforts into it
