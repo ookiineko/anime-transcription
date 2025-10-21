@@ -6,7 +6,7 @@ Anime Transcription
 ![toplevel txt file count badge](https://img.shields.io/github/directory-file-count/ookiineko/anime-transcription?type=file&extension=txt&style=for-the-badge&label=top-level%20files)
 
 ![commit activity badge](https://img.shields.io/github/commit-activity/w/ookiineko/anime-transcription?style=for-the-badge)
-![license badge](https://img.shields.io/badge/license-public%20domain-blue?style=for-the-badge)
+![license badge](https://img.shields.io/badge/license-public%20domain%20%28with%20disclaimers%29-blue?style=for-the-badge)
 
 (Part of this readme is also available in other languages: [中文 (Chinese)](README-zh.md))
 
