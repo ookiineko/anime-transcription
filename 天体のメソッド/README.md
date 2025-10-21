@@ -12,9 +12,9 @@ there is unofficial subtitles on Kitsunekko released by a Chinese fansub group, 
 
 | ep. | status | ep. | status | ep. | status |
 | --- | --- | --- | --- | --- | --- |
-| 1 | still incomplete | 7 | ❌️ | 13 | ❌️ |
+| 1 | ✅️ | 7 | ❌️ | 13 | ❌️ |
 | 2 | ❌️ | 8 | ❌️ | 14 (OP) | ✅️ |
-| 3 | ❌️ | 9 | ❌️ | 15 (ED) | ❌️ |
+| 3 | ❌️ | 9 | ❌️ | 15 (ED) | ✅️ |
 | 4 | ❌️ | 10 | ❌️ | 16 (OVA) | ❌️ |
 | 5 | ❌️ | 11 | ❌️ | 17[^1] | ❌️ |
 | 6 | ❌️ | 12 | ❌️ | &nbsp; | &nbsp; |
