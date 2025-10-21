@@ -1,6 +1,13 @@
 Anime Transcription
 ===================
 
+![repo size badge](https://img.shields.io/github/repo-size/ookiineko/anime-transcription?style=for-the-badge)
+![subdir count badge](https://img.shields.io/github/directory-file-count/ookiineko/anime-transcription?type=dir&style=for-the-badge&label=subdirectories)
+![toplevel txt file count badge](https://img.shields.io/github/directory-file-count/ookiineko/anime-transcription?type=file&extension=txt&style=for-the-badge&label=top-level%20files)
+
+![commit activity badge](https://img.shields.io/github/commit-activity/w/ookiineko/anime-transcription?style=for-the-badge)
+![license badge](https://img.shields.io/badge/license-public%20domain-blue?style=for-the-badge)
+
 This repository contains dialogue lines for some Japanese animes I transcribe for fun (when subtitles for it is not available in [kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) or [Jimaku](https://jimaku.cc/))
 
 timed subtitles can be created later if me or someone else willing to put efforts into it
