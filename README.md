@@ -108,3 +108,5 @@ There is a newly created discussion group, if you're interested in this project,
 ## License
 
 unless further clarified, the transcription works inside this repository are provided you FOR FREE in the Public Domain, and is sorely intended for Japanese learners; not to use them for any other purposes; the original anime content and dialogue remain the property of their respective copyright holders, if you are the copyright holder, you can contact me for removal using email; donations are not accepted
+
+no warranty of any sort provided absolutely whatsoever
