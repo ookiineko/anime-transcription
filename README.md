@@ -103,7 +103,7 @@ if this project looks useful to you and if you would like to, you can leave a st
 
 ### Joining the community
 
-There is a newly created discussion group, if you're interested in this project, this is a group for you: https://t.me/anime_transcription
+There is a newly created discussion group on DeltaChat, if you're interested in this project, this is a group for you: [Link](https://i.delta.chat/#46074953B5EAAE3C17FB9DAF8B8AD58FB6341BD7&a=6god4vw2s%40nine.testrun.org&g=anime%2Dtranscription&x=vQ9MZCXNV1MKf6pK8pitMbC9&i=mRLzVg9nBxDHITzWfjoSqj04&s=ruA6juHBpSIBxy_xXd2lEfpz)
 
 ## License
 
