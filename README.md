@@ -14,6 +14,9 @@ This repository contains dialogue lines for some Japanese animes I transcribe fo
 
 timed subtitles can be created later if me or someone else willing to put efforts into it
 
+> [!NOTE]
+> this repo under a rewrite/refactor again to further more improve quality and for making it easier to maintain, see the branch [`new`](../../tree/new), which will be default later once contents are on par with the current branch; until that updates here will be somewhat stalled
+
 ## What
 
 consider it as a hint for if you plan to immerse in these animes
